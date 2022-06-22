@@ -10,7 +10,7 @@
 
 5-listfilesdigitonly display current directory contents with user and group IDs displayed numerically.
 
-6-firstdirectorcy Create a script that creates a directory named my_first_directory in the /tmp/ directory.
+6c-firstdirectorcy Create a script that creates a directory named my_first_directory in the /tmp/ directory.
 
 7-movethatfile moves the file betty from /tmp/ to /tmp/my_first_directory.
 
@@ -24,4 +24,4 @@
 
 12-file_type Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
 
-
+14-copy_html
